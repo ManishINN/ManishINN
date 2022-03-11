@@ -1,5 +1,5 @@
 <img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/1365253/screenshots/6796374/bill-gates.png">
-<h1 align="center">Hi 👋, I'm Manishl</h1>
+<h1 align="center">Hi 👋, I'm Manish</h1>
 <h3 align="center">
   Welcome to Manish profile!
   <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="28">

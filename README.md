@@ -10,7 +10,7 @@
   <a href="https://github.com/ManishINN/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com/?lines=Full-Stack%20Engineer%20;Self-taught%20;3years%20of%20coding%20experience;Always%20learning%20new%20things&font=Fira%20Code&center=true&width=440&height=45&color=f75c7e&vCenter=true&size=22"></a>
 </p>
 
-📫 How to reach me **manishone868@gmail.com**
+📫 How to reach me **manishinr868@gmail.com**
 
 ## 📈 GitHub Stats
 <br>
